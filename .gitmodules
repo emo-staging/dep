@@ -4,3 +4,4 @@
 [submodule "lib/dep-core"]
 	path = lib/dep-core
 	url = https://github.com/emo-staging/dep-core
+	branch = nt
