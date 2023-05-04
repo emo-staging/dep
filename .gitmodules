@@ -5,3 +5,6 @@
 	path = lib/dep-core
 	url = https://github.com/emo-staging/dep-core
 	branch = nt
+[submodule "lib/dep-types"]
+	path = lib/dep-types
+	url = https://github.com/emo-staging/dep-types
